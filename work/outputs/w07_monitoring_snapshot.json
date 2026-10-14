@@ -1,0 +1,13 @@
+{
+  "snapshot_created_utc": "2026-10-14T12:39:48.760020+00:00",
+  "queue_rows": 23496,
+  "duplicate_page_rows": 0,
+  "missing_impressions": 0,
+  "missing_observed_ctr": 0,
+  "missing_reason_codes": 0,
+  "impressions_min": 100.0,
+  "impressions_median": 704.0,
+  "impressions_max": 617124.0,
+  "ctr_min": 0.0,
+  "ctr_max": 0.07857142857142857
+}
